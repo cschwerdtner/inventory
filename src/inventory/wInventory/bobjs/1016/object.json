@@ -1,0 +1,30 @@
+{
+	"ident": 1016,
+	"order": 16385,
+	"objtype": "kText",
+	"properties": {
+		"align": "kCenterJst",
+		"backcolor": "kColorBackFill",
+		"backpattern": 15,
+		"designactive": true,
+		"edgefloat": "kEFcenterLeftRight",
+		"fieldstyle": "",
+		"font": 5,
+		"fontsize": 24,
+		"fontstyle": "kPlain",
+		"forecolor": "kColorForeFill",
+		"height": 34,
+		"left": 176,
+		"objlink": 0,
+		"text": {
+			"type": 14,
+			"calc": "Inventory"
+		},
+		"textcolor": "kColorWindowText",
+		"top": 32,
+		"userinfo": "",
+		"vertcentertext": false,
+		"visible": true,
+		"width": 118
+	}
+}
